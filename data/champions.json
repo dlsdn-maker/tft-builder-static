@@ -1,0 +1,20 @@
+[
+  {
+    "id": "TFT_TEST_A",
+    "name": "테스트 유닛 A",
+    "cost": 1,
+    "traits": ["TestTrait1", "TestTrait2"]
+  },
+  {
+    "id": "TFT_TEST_B",
+    "name": "테스트 유닛 B",
+    "cost": 2,
+    "traits": ["TestTrait1"]
+  },
+  {
+    "id": "TFT_TEST_C",
+    "name": "테스트 유닛 C",
+    "cost": 4,
+    "traits": ["TestTrait3"]
+  }
+]
