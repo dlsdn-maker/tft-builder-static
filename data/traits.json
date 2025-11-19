@@ -1,0 +1,17 @@
+[
+  {
+    "id": "TestTrait1",
+    "name": "테스트 시넷지 1",
+    "breakpoints": [2, 4, 6]
+  },
+  {
+    "id": "TestTrait2",
+    "name": "테스트 시넷지 2",
+    "breakpoints": [2, 3]
+  },
+  {
+    "id": "TestTrait3",
+    "name": "테스트 시넷지 3",
+    "breakpoints": [1, 2]
+  }
+]
